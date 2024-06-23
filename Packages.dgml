@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph GraphDirection="LeftToRight" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="KinectRenderer" Label="KinectRenderer" Category="Project" />
+    <Node Id="AForge 2.2.5" Label="AForge 2.2.5" Category="Package" />
+    <Node Id="TapeMeasureValidation" Label="TapeMeasureValidation" Category="Project" />
+    <Node Id="mongocsharpdriver 1.8.3" Label="mongocsharpdriver 1.8.3" Category="Package" />
+    <Node Id="KinectDocument" Label="KinectDocument" Category="Project" />
+    <Node Id="mongocsharpdriver 1.8.3" Label="mongocsharpdriver 1.8.3" Category="Package" />
+    <Node Id="KinectDataSaver" Label="KinectDataSaver" Category="Project" />
+    <Node Id="mongocsharpdriver 1.10.0" Label="mongocsharpdriver 1.10.0" Category="Package" />
+  </Nodes>
+  <Links>
+    <Link Source="KinectRenderer" Target="AForge 2.2.5" Category="Installed Package" />
+    <Link Source="TapeMeasureValidation" Target="mongocsharpdriver 1.8.3" Category="Installed Package" />
+    <Link Source="KinectDocument" Target="mongocsharpdriver 1.8.3" Category="Installed Package" />
+    <Link Source="KinectDataSaver" Target="mongocsharpdriver 1.10.0" Category="Installed Package" />
+  </Links>
+  <Categories>
+    <Category Id="Project" />
+    <Category Id="Package" />
+  </Categories>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Project" ValueLabel="True">
+      <Condition Expression="HasCategory('Project')" />
+      <Setter Property="Background" Value="Blue" />
+    </Style>
+  </Styles>
+</DirectedGraph>

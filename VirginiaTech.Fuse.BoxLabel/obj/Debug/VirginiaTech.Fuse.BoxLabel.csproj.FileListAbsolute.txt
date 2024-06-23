@@ -1,0 +1,10 @@
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.BoxLabel\bin\Debug\VirginiaTech.Fuse.BoxLabel.exe.config
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.BoxLabel\bin\Debug\VirginiaTech.Fuse.BoxLabel.exe
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.BoxLabel\bin\Debug\VirginiaTech.Fuse.BoxLabel.pdb
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.BoxLabel\obj\Debug\VirginiaTech.Fuse.BoxLabel.csprojResolveAssemblyReference.cache
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.BoxLabel\obj\Debug\VirginiaTech.Fuse.BoxLabel.Properties.Resources.resources
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.BoxLabel\obj\Debug\VirginiaTech.Fuse.BoxLabel.csproj.GenerateResource.Cache
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.BoxLabel\obj\Debug\VirginiaTech.Fuse.BoxLabel.exe
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.BoxLabel\obj\Debug\VirginiaTech.Fuse.BoxLabel.pdb
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.BoxLabel\obj\Debug\VirginiaTech.Fuse.BoxLabel.BoxLabeler.resources
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.BoxLabel\bin\Debug\Newtonsoft.Json.dll

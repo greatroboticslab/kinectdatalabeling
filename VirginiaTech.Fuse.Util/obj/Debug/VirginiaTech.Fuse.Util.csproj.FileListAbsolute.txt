@@ -1,0 +1,7 @@
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.Util\bin\Debug\VirginiaTech.Fuse.Util.dll
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.Util\bin\Debug\VirginiaTech.Fuse.Util.pdb
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.Util\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.Util\obj\Debug\VirginiaTech.Fuse.Util.csprojResolveAssemblyReference.cache
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.Util\obj\Debug\VirginiaTech.Fuse.Util.dll
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.Util\obj\Debug\VirginiaTech.Fuse.Util.pdb
+C:\Users\andrew\Projects\KinectDataSaver\VirginiaTech.Fuse.Util\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,16 @@
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\bin\Debug\ExcelFriendly.exe.config
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\bin\Debug\ExcelFriendly.exe
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\bin\Debug\ExcelFriendly.pdb
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\bin\Debug\VirginiaTech.Fuse.Util.dll
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\bin\Debug\VirginiaTech.Fuse.Util.pdb
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\obj\Debug\VirginiaTech.Fuse.Excel.csprojResolveAssemblyReference.cache
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\obj\Debug\MainWindow.baml
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\obj\Debug\MainWindow.g.cs
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\obj\Debug\App.g.cs
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\obj\Debug\ExcelFriendly_MarkupCompile.cache
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\obj\Debug\ExcelFriendly.g.resources
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\obj\Debug\ExcelFriendly.Properties.Resources.resources
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\obj\Debug\VirginiaTech.Fuse.Excel.csproj.GenerateResource.Cache
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\obj\Debug\ExcelFriendly.exe
+C:\Users\andrew\Projects\KinectDataSaver\ExcelFriendly\obj\Debug\ExcelFriendly.pdb

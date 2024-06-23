@@ -1,0 +1,13 @@
+﻿<Window x:Class="VirginiaTech.Fuse.Excel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="124" Width="525">
+    <Grid>
+        <Button x:Name="sourceFileButton" Content="Source File" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="destFileButton" Content="Dest File" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="sourceFileLabel" Content="Label" HorizontalAlignment="Left" Margin="90,7,0,0" VerticalAlignment="Top" Width="417"/>
+        <Label x:Name="destFileLabel" Content="Label" HorizontalAlignment="Left" Margin="90,35,0,0" VerticalAlignment="Top" Width="417"/>
+        <Button x:Name="convertButton" Content="Convert" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top" Width="75" IsEnabled="False"/>
+
+    </Grid>
+</Window>

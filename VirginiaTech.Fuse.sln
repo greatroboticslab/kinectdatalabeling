@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirginiaTech.Fuse.Render", "KinectRenderer\VirginiaTech.Fuse.Render.csproj", "{33BDB309-E978-40C4-A265-910B76F06C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirginiaTech.Fuse.Label", "SnapshotClassifier\VirginiaTech.Fuse.Label.csproj", "{6F04DA1C-BFC3-43C7-B216-8A7288939A0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirginiaTech.Fuse.StepCount", "StepCounterHillClimbingApp\VirginiaTech.Fuse.StepCount.csproj", "{397394FF-F522-4D9B-A79E-82056D698319}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirginiaTech.Fuse.Record", "SnapshotGeneratorVisual\VirginiaTech.Fuse.Record.csproj", "{33158E17-D679-43E6-ADCE-D5A39329F2A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirginiaTech.Fuse.Excel", "ExcelFriendly\VirginiaTech.Fuse.Excel.csproj", "{B2E7E876-C5C8-4B06-813F-5C684D38BE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirginiaTech.Fuse.Util", "VirginiaTech.Fuse.Util\VirginiaTech.Fuse.Util.csproj", "{BC12982C-161E-4D0B-8591-7BB0FED5B08F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{EE1F1E81-29ED-476D-808D-F7B4B844C98F}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirginiaTech.Fuse.BoxLabel", "VirginiaTech.Fuse.BoxLabel\VirginiaTech.Fuse.BoxLabel.csproj", "{BC8D42A7-BD04-444D-A63F-A8DED287E920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33BDB309-E978-40C4-A265-910B76F06C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BDB309-E978-40C4-A265-910B76F06C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BDB309-E978-40C4-A265-910B76F06C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BDB309-E978-40C4-A265-910B76F06C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F04DA1C-BFC3-43C7-B216-8A7288939A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F04DA1C-BFC3-43C7-B216-8A7288939A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F04DA1C-BFC3-43C7-B216-8A7288939A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F04DA1C-BFC3-43C7-B216-8A7288939A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397394FF-F522-4D9B-A79E-82056D698319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397394FF-F522-4D9B-A79E-82056D698319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397394FF-F522-4D9B-A79E-82056D698319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397394FF-F522-4D9B-A79E-82056D698319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33158E17-D679-43E6-ADCE-D5A39329F2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33158E17-D679-43E6-ADCE-D5A39329F2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33158E17-D679-43E6-ADCE-D5A39329F2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33158E17-D679-43E6-ADCE-D5A39329F2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E7E876-C5C8-4B06-813F-5C684D38BE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E7E876-C5C8-4B06-813F-5C684D38BE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E7E876-C5C8-4B06-813F-5C684D38BE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E7E876-C5C8-4B06-813F-5C684D38BE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC12982C-161E-4D0B-8591-7BB0FED5B08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC12982C-161E-4D0B-8591-7BB0FED5B08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC12982C-161E-4D0B-8591-7BB0FED5B08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC12982C-161E-4D0B-8591-7BB0FED5B08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8D42A7-BD04-444D-A63F-A8DED287E920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8D42A7-BD04-444D-A63F-A8DED287E920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8D42A7-BD04-444D-A63F-A8DED287E920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8D42A7-BD04-444D-A63F-A8DED287E920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

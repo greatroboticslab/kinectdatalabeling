@@ -1,0 +1,11 @@
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\bin\Debug\KinectRenderer.dll
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\bin\Debug\KinectRenderer.pdb
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\bin\Debug\AForge.dll
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\bin\Debug\AForge.Video.dll
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\bin\Debug\AForge.Video.VFW.dll
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\bin\Debug\AForge.xml
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\bin\Debug\AForge.Video.xml
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\bin\Debug\AForge.Video.VFW.xml
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\obj\Debug\VirginiaTech.Fuse.Render.csprojResolveAssemblyReference.cache
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\obj\Debug\KinectRenderer.dll
+C:\Users\andrew\Projects\KinectDataSaver\KinectRenderer\obj\Debug\KinectRenderer.pdb
